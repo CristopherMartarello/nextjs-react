@@ -100,6 +100,14 @@ a {
   text-decoration: none;
 }
 
+.azul {
+  background-color: dodgerblue;
+}
+
+.vermelho {
+  background-color: crimson;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
